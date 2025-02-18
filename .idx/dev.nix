@@ -12,6 +12,7 @@
     pkgs.nodejs_20
     pkgs.nodePackages.nodemon
     pkgs.docker-compose
+    pkgs.sudo
   ];
 
   # Sets environment variables in the workspace
