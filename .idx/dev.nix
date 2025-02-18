@@ -13,6 +13,8 @@
     pkgs.nodePackages.nodemon
     pkgs.docker-compose
     pkgs.sudo
+    pkgs.docker
+    pkgs.docker-client
   ];
 
   # Sets environment variables in the workspace
